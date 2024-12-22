@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HogRider123/Astralis-Legacy/refs/heads/main/AimLock"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/paradoxhubv2/paradoxhub/main/ANTILOCKV1.LUA",true))()
